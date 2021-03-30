@@ -4,13 +4,8 @@ Panels:
     Name: Displays
     Property Tree Widget:
       Expanded: ~
-<<<<<<< Updated upstream
       Splitter Ratio: 0.6011396050453186
     Tree Height: 161
-=======
-      Splitter Ratio: 0.6000000238418579
-    Tree Height: 535
->>>>>>> Stashed changes
   - Class: rviz/Selection
     Name: Selection
   - Class: rviz/Tool Properties
